@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.choice {
+  transition: transform 0.3s ease-in-out;
+}
+
+.choice img {
+  max-width: 100px;
+  height: auto;
+}
+
+.score {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-top: 20px;
+}
